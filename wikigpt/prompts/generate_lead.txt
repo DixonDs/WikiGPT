@@ -1,0 +1,11 @@
+Rewrite the lead section of the Wikipedia article "{title}" using wiki markup. The lead section should summarize the most important points of the article and provide context for the reader. Do not add any new information that is not already in the article and do not use external knowledge. Follow the guidelines on the page https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Lead_section to decide what to include and how to format the lead section.
+
+The current lead section:
+<<<<<<<<<<<<<<<<
+{lead_section}
+<<<<<<<<<<<<<<<<
+
+Use the following part {part_number} of {total_parts} of the existing article to improve the lead section:
+<<<<<<<<<<<<<<<<
+{part}
+<<<<<<<<<<<<<<<<
